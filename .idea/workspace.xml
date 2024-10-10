@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="010a043a-ca5f-4555-a823-e0bc8be1d366" name="Changes" comment="my homework &quot;attributes &amp; object's methods&quot;" />
+    <list default="true" id="010a043a-ca5f-4555-a823-e0bc8be1d366" name="Changes" comment="my homework &quot;attributes &amp; object's methods&quot;">
+      <change beforePath="$PROJECT_DIR$/module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +39,23 @@
     "last_opened_file_path": "C:/Users/Anatol/PycharmProjects/Module_5"
   },
   "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anatol\PycharmProjects\Module_5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.module_5_1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728538999785</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="my homework &quot;attributes &amp; object's methods&quot;">
+      <option name="closed" value="true" />
+      <created>1728539286805</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728539286805</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
